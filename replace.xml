@@ -61,7 +61,7 @@
 <project path="frameworks/opt/net/wifi" name="platform_frameworks_opt_net_wifi" remote="phh" revision="android-11.0.0_r48-phh" />
 
 <remove-project name="platform/frameworks/opt/net/ethernet" />
-<project path="frameworks/opt/net/ethernet" name="platform_frameworks_opt_net_ethernet" remote="dennisvl92" revision="android-11.0.0_r48-phh" />
+<project path="frameworks/opt/net/ethernet" name="platform_frameworks_opt_net_ethernet" remote="dennisvl92" revision="android11-test" />
 
 <remove-project name="platform/frameworks/opt/telephony" />
 <project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" remote="phh" revision="android-11.0.0_r48-phh" />
